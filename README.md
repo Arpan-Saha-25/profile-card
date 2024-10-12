@@ -5,7 +5,7 @@ This project is a simple **Profile Card** that displays **Arpan Saha's** profile
 ## Features 🚀
 
 - **Profile Image** 🖼️: Displays Arpan's profile picture.
-- **User Info** 📄: Shows Arpan's name and job title.
+- **User Info** 📄: Shows Arpan's name and info.
 - **Social Media Links** 🌐: Links to Facebook, Instagram, YouTube, and X (Twitter) with corresponding icons.
 - **Engagement Analytics** 📊: Shows the number of likes, comments, and shares with Font Awesome icons.
 - **Action Buttons** 🔘: Provides "Subscribe" and "Message" buttons for further engagement.
